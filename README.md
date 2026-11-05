@@ -11,10 +11,6 @@
 
 ---
 
-<p align="center">
-  <img src="images/screenshot.png" alt="DockPeek showing three Chrome window previews above the Dock" width="760">
-</p>
-
 DockPeek is a small menu-bar app (it has no Dock icon of its own) written in Swift with AppKit and
 ScreenCaptureKit. It adds the behaviour of the Windows 11 taskbar thumbnail flyout to the Dock:
 hover to preview, click to jump to a window, close windows right from the preview.
