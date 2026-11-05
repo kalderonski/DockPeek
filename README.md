@@ -62,7 +62,7 @@ macOS only applies a new Screen Recording grant after the app restarts.
 ## Install
 
 ```bash
-git clone https://github.com/kalderonski73/DockPeek.git
+git clone https://github.com/kalderonski/DockPeek.git
 cd DockPeek
 ./build.sh
 cp -R DockPeek.app /Applications/
